@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7462
     wikipedia: http://www.talbot.edu/ce20/educators/view.cfm?n=henry_cope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17570#Religious-Education-in-the-Family
 gutenberg_issued: '2006-01-21'
 gutenberg_type: Text
 identifiers:
